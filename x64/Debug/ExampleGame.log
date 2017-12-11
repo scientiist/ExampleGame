@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\josh\source\repos\examplegame\examplegame\main.cpp(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Frame.cpp
+  Generating Code...
+  ExampleGame.vcxproj -> C:\Users\josh\source\repos\ExampleGame\x64\Debug\ExampleGame.exe
